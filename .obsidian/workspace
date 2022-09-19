@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alessio/2022-09-19.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alessio/2022-09-19.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alessio/2022-09-19.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alessio/2022-09-19.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "bb4d7133f31b4fbd",
   "lastOpenFiles": [
+    "Alessio/2022-09-19.md",
     "Alessio/2022-09-15.md",
     "Alessio/2022-09-16.md",
-    "Alessio/2022-09-19.md",
     "Alessio/2022-09-14.md",
     "Pasted image 20220919111231.png.md",
     "Alessio/Laravel setup.md"
