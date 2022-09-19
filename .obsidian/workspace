@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "ff8bb6e7eaed7149",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb4d7133f31b4fbd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Alessio/2022-09-19.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4fa780eb6b22ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e2839da51bf141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbda589b7f843223",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c230c56d12c650b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba90b4382874b879",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce8c9059c73d525b",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d2b3c4f1fdc03f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e02732382880448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alessio/2022-09-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7f246d0d2e9c087",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alessio/2022-09-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e633a52e3e98ffaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2898145c7a56332",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alessio/2022-09-19.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb4d7133f31b4fbd",
+  "lastOpenFiles": [
+    "Alessio/2022-09-15.md",
+    "Alessio/2022-09-16.md",
+    "Alessio/2022-09-19.md",
+    "Alessio/2022-09-14.md",
+    "Pasted image 20220919111231.png.md",
+    "Alessio/Laravel setup.md"
+  ]
+}
