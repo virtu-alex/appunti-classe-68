@@ -7,8 +7,12 @@
         "id": "bb4d7133f31b4fbd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Alessio/2022-09-19.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alessio/2022-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alessio/2022-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Alessio/2022-09-19.md"
+              }
             }
           }
         ]
@@ -120,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbda589b7f843223",
+  "active": "bb4d7133f31b4fbd",
   "lastOpenFiles": [
+    "Untitled.md",
     "Alessio/2022-09-19.md",
     "Alessio/2022-09-15.md",
     "Alessio/2022-09-16.md",
